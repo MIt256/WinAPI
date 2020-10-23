@@ -1,0 +1,3 @@
+﻿  API.cpp
+D:\api\API\API.cpp(46,8): warning C4101: 'hWind': unreferenced local variable
+  API.vcxproj -> D:\api\Debug\API.exe
